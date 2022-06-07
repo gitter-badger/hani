@@ -15,6 +15,9 @@
   <a href="https://www.facebook.com/24kblossom" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
+  <a href="https://www.instagram.com/haitranxhani" alt="Instagram">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+  </a>
   <a href="https://github.com/hanicsgo" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
@@ -23,9 +26,6 @@
   </a>
   <a href="mailto:haigtasan@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-  <a href="https://www.instagram.com/haitranxhani" alt="Instagram">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
   </a>
 </p>
 
@@ -39,10 +39,6 @@
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
 <table style="width:100%;">
