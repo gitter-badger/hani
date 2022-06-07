@@ -4,7 +4,7 @@
 
 - ✍ I'm a student of: [FPT University, Hanoi]([https://hcmute.edu.vn](https://daihoc.fpt.edu.vn/tag/fptu/)) (FPTU).
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **Back-end Stack.** and working **Thudo Multimedia**
 
 
 ## 📫 How to reach me:
@@ -23,6 +23,9 @@
   </a>
   <a href="mailto:haigtasan@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+  <a href="https://www.instagram.com/haitranxhani" alt="Instagram">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram.png"/>
   </a>
 </p>
 
