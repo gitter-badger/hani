@@ -25,7 +25,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
   <a href="https://www.instagram.com/haitranxhani" alt="Instagram">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram.png"/>
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
   </a>
 </p>
 
